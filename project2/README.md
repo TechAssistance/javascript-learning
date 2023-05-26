@@ -16,4 +16,4 @@ Requirments:
 - found: https://www.npmjs.com/package/pkg
 
 Note:
-I WAS able to complie them using the pkg command from npm. (they way too thiccc to add to a zip just in here  but it did work, dont think I'll want to compile nodeJS or use it for CLI applications in the future lol. 
+I WAS able to compile them using the pkg command from npm. (they way too thiccc to add to a zip just in here  but it did work, dont think I'll want to compile nodeJS or use it for CLI applications in the future lol. 
