@@ -10,4 +10,4 @@ For example, given height = 5, print out:
 *********
 ```
 
-![alt text](http://url/to/img.png)
+![Me figuring out how this would work, math go brr]([http://url/to/img.png](https://github.com/TechAssistance/javascript-learning/blob/main/project1/pyramidMath.png))
