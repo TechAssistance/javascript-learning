@@ -5,6 +5,7 @@ Requirments:
 2. Read the file in order (top to bottom) 
 3. See if we can potentially compile it??? (no clue if possible)
 4. Read from file provided from user input
+5. Use Node.JS as this is meant to run on the system/server
 
 # The Research we done did: 
 1. Google for ways to interact with files in JS 
